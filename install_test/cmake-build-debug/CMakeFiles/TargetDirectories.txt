@@ -1,0 +1,3 @@
+D:/CProgram/github.com/LFnast/OpenCV/install_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CProgram/github.com/LFnast/OpenCV/install_test/cmake-build-debug/CMakeFiles/install_test.dir
+D:/CProgram/github.com/LFnast/OpenCV/install_test/cmake-build-debug/CMakeFiles/edit_cache.dir
