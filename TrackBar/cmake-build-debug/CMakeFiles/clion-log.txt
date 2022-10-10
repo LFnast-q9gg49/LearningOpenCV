@@ -1,0 +1,10 @@
+"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\CProgram\github.com\LFnast\OpenCV\TrackBar
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV: D:/openCV/mingw-build/install (found version "4.6.0") 
+-- Found OpenCV 4.6.0 in D:/openCV/mingw-build/install/x64/mingw/lib
+-- You might need to add D:/openCV/mingw-build/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CProgram/github.com/LFnast/OpenCV/TrackBar/cmake-build-debug
