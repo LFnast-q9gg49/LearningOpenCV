@@ -1,8 +1,8 @@
-# Install script for directory: D:/CProgram/github.com/LFnast/OpenCV/Day2
+# Install script for directory: D:/CProgram/github.com/LFnast/OpenCV/Day_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Day2")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Day_2")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
