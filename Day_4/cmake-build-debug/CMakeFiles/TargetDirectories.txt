@@ -1,0 +1,3 @@
+D:/CProgram/github.com/LFnast/OpenCV/Day_4/cmake-build-debug/CMakeFiles/Day_4.dir
+D:/CProgram/github.com/LFnast/OpenCV/Day_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CProgram/github.com/LFnast/OpenCV/Day_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
